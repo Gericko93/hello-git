@@ -1,0 +1,1 @@
+print("fotografia 2")
